@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Marcos seja bem vindo ao meu hulmilde "ateliê".<br>Estou estudando programação pois e uma area que me fascina  e pretendo  me profissionalizar .<br>fluente em espanhol,ingles basico/estudando.</h2>
+<h2 align="left">Olá, sou Marcos seja bem vindo ao meu hulmilde "ateliê".<br>Estou estudando programação pois e uma area que me fascina  e pretendo  me profissionalizar .<br>Idioma = ["Espanhol+Fluente", "Ingles+basic"].</h2>
 
 ###
 
