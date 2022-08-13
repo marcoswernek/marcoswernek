@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Marcos seja bem vindo....<br>Estou estudando programação pois e uma area que me fascina  e pretendo  me profissionalizar .<br>Idioma = ["Espanhol+Fluente", "Ingles+basic"].</h2>
+<h2 align="left">Olá, sou Marcos seja bem vindo....<br>Idioma = ["Espanhol+Fluente", "Ingles+basic"].</h2>
 
 ###
 
