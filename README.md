@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Marcos seja bem vindo....<br>Idioma = ["Espanhol+Fluente", "Ingles+basic"].</h2>
+<h2 align="left">Olá, sou Marcos seja bem vindo..<br>Idioma = ["Espanhol+Fluente", "Ingles+basic"].</h2>
 
 ###
 
