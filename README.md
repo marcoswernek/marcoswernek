@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Marcos seja bem vindo..<br>.</h2>
+<h2 align="left">Olá, sou Marcos seja bem vindo..</h2>
 
 ###
 
